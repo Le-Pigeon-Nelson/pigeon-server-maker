@@ -1,0 +1,10 @@
+#map {
+    height: 400px;
+  }
+
+.leaflet-marker-icon.r180{
+  filter: hue-rotate(180deg);
+}
+.leaflet-marker-icon.r50{
+  filter: hue-rotate(50deg);
+}
